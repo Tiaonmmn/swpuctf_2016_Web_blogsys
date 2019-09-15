@@ -1,0 +1,10 @@
+version: "3"
+services:
+
+  web:
+    build: .
+    image: ctftraining/swpuctf_2016_web_web400
+    ports:
+      - "5354:80"
+    restart: always
+

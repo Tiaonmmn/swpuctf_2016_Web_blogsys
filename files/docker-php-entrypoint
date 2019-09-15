@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "Starting php fpm"
+php-fpm &
+echo "Starting nginx"
+nginx &
+echo "Starting mysql"
+mysqld_safe&
+
+echo "Server started."
+
+tail -F /dev/null
