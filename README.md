@@ -1,8 +1,9 @@
-# SWPUCTF 2016 Web Web400
+# SWPUCTF 2016 Web blogsys
 
 ## 题目详情
 
 - SWPUCTF_2016_Web_Web400
+- blogsys我瞎起的名字
 
 ## 考点
 
