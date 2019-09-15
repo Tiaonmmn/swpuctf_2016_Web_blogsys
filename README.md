@@ -19,6 +19,7 @@
 ## Writeups
 
 > https://github.com/wonderkun/CTF_web/blob/master/web400-3(swpu_ctf)/README.md
+> https://blog.tiaonmmn.top/2019/09/13/SWPUCTF-2016-Web400/
 
 ## 题目说明
 - Flag位于files/flag中，Docker中位于/flag。本题flag位于数据库，在index.php中有一段读/flag并写入数据库的代码。
